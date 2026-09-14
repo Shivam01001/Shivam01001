@@ -1,5 +1,55 @@
 <div align="center">
 
+```text
+                                     ..          ::.
+                                     -%:        .=@:
+                                    .=@@+.      .*@@:
+                                    .=%%@#.     :%*@%:                   .=:
+                                    .+%-@#%:.-. =#=@@#.                 .+@@=
+                                    .+#.#+.*@@@@@*-@@#*.               .+@@@@+:.
+                                   .-##.=@+.=@@@@+.@@+%+              .*@*-..-#@+.
+                              .:+#@@@@*..%@+.-%@@+.#@#*@*:          .+@+.     .:@+.
+                   ...:-=*%@@@@@@@@@@@#..+@@= :@@= =@@#@@@@@+:..  .:@*.       .%%....
+                   +@@@@@@@@@@@@@@@@@@%. :%@@: -@+-+#*===+#%@@@@*=*#:        .+%:=#@%.
+                  :@@@@@@@@@@@@@@@@@@@@: .*@@*. =%-.       .-@@##%-.         .*@@*::@*.
+                  +@@@@@@@@@@@@@@@@@@@@-  :@@@#:.-    .*@@+.:@*-=.            -:.   +%:
+                 .#@@@@@@@@@@@@@@@@@@@@+   *@@@-...  :#@@%*@@@=.                   .+%-
+                 -%@@@@@@@@@@@@%*-#**@@#   .@@%--.  .::*%%++:+.                  .=%@#:
+                .=@@@@@@@@@@#-.. .=.:%@@.   :%*#=    .=+:.....                 .+@#-..
+                .#@@@@@@@@+.         .#@-    :*:                             .=@@-
+                .@@@@@@@%-::.          -*.                                  :#@*.
+                -@@@@@@@@@%=.                                             .=@%-.
+                =@@@@@@@%:.                                              :#@%:.
+                *@@@@@@-                                                .%@@#
+                *@@@@%:...:.                                            #@@@%.
+                *@@@%:.=#%-.                                           .@@@@@.
+                *@@@-*@@@=. ..                              .    ...   *@@@@@.
+                +@@@@@@@#..=-   ...          ....:=#:   ..=@.   .==. .=@@@@@@.
+                -@@@@@@@.=#:  .:=:.     .+*#%@@@@@%:  .:*@@=   .*%: .-@@@@@@%.
+                .%@@@@@#%#:..+%*.        .-@@@@@@#--+#@@@@*. .-%@+..*@@@@@@@#
+                .*@@@@@@#.-%@@=.         .:..*@@@@%*=:#@@#:.+@@@%=%@@@@@@@@@=
+                .-@@@@@++@@@%:                  ..:-#@@@@@@@@@@@@@@@@@@@@@@@:
+                 .*@@@@@@@@+..:+.   ..        .:=*#####%@@@@@@@@@@@@@@@@@@@#
+                  :@@@@@@%=*%@@=   -+.             :*@@@@@%-@@@@@@@@@@@@@@@-
+                   -@@@@@@@@@@+..=@*     ...       .:--:. :%@@@@@@@@@@@@@@*.
+                    -@@@@@@@@#=#@@+. ..-+#-.               .%@@@@@@@@@@@@%-
+                    .=@@@@@@@@@@@=.-*%@@@-     .  .=.     .#@@@@@@@@@@@@@=.
+                     .-@@@@@@@@@%@@@@@@@-     .+ .+@=    .*@@@@@@@@@@@@@-.
+                       .#@@@@@@@@@@@@@@=  .: .*%.+@@+   .=@@@@@@@@@@@@#.
+                        .=%@@@@@@@@@@@*..+%#.*@%#@@@=  .+@@@@@@@@@@@%-.
+                          .+@@@@@@@@@%*#@@@+%@@@@@@@. :#@@@@@@@@@@#-.
+                            .*@@@@@@@@@@@@@@@@@@@@@+.+@@@@@@@@@@*.
+                              .+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:
+                                .-#@@@@@@@@@@@@@@@@@@@@@@%*:
+                                   .-#@@@@@@@@@@@@@@@@*-..
+                                       :*@@@@@@@@@#-
+                                          .-+#+:.
+```
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=Shivam+Pandit+%7C+Cyber+Security+Associate;Web+%26+API+VAPT;Vulnerability+Research;Recon+%7C+Exploit+%7C+Validate+%7C+Report" alt="Typing intro" />
 
 <br>
@@ -17,7 +67,7 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00ff88)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam01001&style=flat-square&color=00ff88)
 
 </div>
 
@@ -91,21 +141,73 @@ the HTTP request says *"hold my beer."*
 
 `Broken Access Control` · `IDOR / BOLA` · `XSS` · `Injection`  
 `Authentication` · `Authorization` · `Business Logic` · `API flaws`  
-`Security Misconfiguration` · `Attack Chains`
+`Android Security` · `Insecure Storage` · `Deep Links` · `WebViews`  
+`SSL Pinning` · `Exported Components` · `Intent Abuse` · `Security Misconfiguration`  
+`Attack Chains`
+
+---
+
+## `03.1 // ANDROID LAB`
+
+```text
+        APK
+         │
+         ▼
+   ┌─────────────┐
+   │ STATIC      │ ──→ Manifest / Code / Secrets / Components
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ DYNAMIC     │ ──→ Runtime / Network / IPC / Storage
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ INSTRUMENT  │ ──→ Frida / Objection / Hooks
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ VALIDATE    │ ──→ Burp / ADB / Logs / Manual Tests
+   └─────────────┘
+```
+
+### Android Penetration Testing Toolkit
+
+`ADB` · `Frida` · `Objection` · `MobSF` · `JADX` · `apktool`  
+`Burp Suite` · `Android Studio` · `Genymotion` · `Drozer`
+
+```bash
+$ adb devices
+$ adb shell
+$ jadx target.apk
+$ apktool d target.apk
+$ frida-ps -U
+$ objection -g target explore
+```
+
+Focus areas:
+
+`Android Manifest` · `Exported Components` · `Activities` · `Services`  
+`Broadcast Receivers` · `Content Providers` · `Intents` · `Deep Links`  
+`Insecure Data Storage` · `WebViews` · `Network Security` · `SSL Pinning`  
+`Root Detection` · `Runtime Instrumentation` · `API Security` · `Authentication`
+
 
 ---
 
 ## `04 // GITHUB TELEMETRY`
 
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+> Replace `Shivam01001` below with your actual GitHub username.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9ca3af&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivam01001&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam01001&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9ca3af&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam01001&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
 </p>
 
 ---
@@ -113,7 +215,7 @@ the HTTP request says *"hold my beer."*
 ## `05 // CONTRIBUTION GRAPH`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam01001&bg_color=00000000&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="95%" />
 </p>
 
 ---
