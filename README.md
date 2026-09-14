@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=900" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=shivam+pandit;cybersecurity+professional;web+%2F+api+%2F+android+vapt" alt="typing" />
 
