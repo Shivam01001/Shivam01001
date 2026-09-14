@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=shivam+pandit;cyber+security+associate;web+%2F+api+%2F+android+vapt" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=shivam+pandit;cybersecurity+professional;web+%2F+api+%2F+android+vapt" alt="typing" />
 
 <br>
 
@@ -120,6 +120,47 @@ metasploit
 `Burp Suite` `MobSF` `Frida` `Objection` `JADX` `APKTool` `Drozer` `ADB` `Nuclei` `SQLMap` `OWASP ZAP` `Nmap` `Metasploit` `Nessus` `Postman` `HTTPX` `Subfinder`
 
 `Insecure Storage` `Weak Crypto` `Insecure IPC` `SSL Pinning Bypass` `WebView Misconfig` `Hardcoded Secrets` `Exported Components` `Deep Link Hijacking`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00ff88&height=2&width=900" />
+
+<h3><code>projects</code></h3>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+**[Android-LoginBypass-Lab](https://github.com/Shivam01001/Android-LoginBypass-Lab)**
+<sub>5 doors in. 1 dashboard. pick your exploit.</sub>
+
+A deliberately broken login screen — hardcoded creds, exported activities, and an `adb` one-liner all lead to the same flag. Built to teach static analysis, intent abuse, and Frida hooking hands-on.
+
+`android` `frida` `jadx` `ctf`
+
+</td>
+<td width="33%" valign="top">
+
+**[File_Recovery](https://github.com/Shivam01001/File_Recovery)**
+<sub>deleted ≠ gone.</sub>
+
+A digital forensics tool that pulls "erased" files back from the dead — metadata intact, 97.85% success rate, near-total file type coverage.
+
+`forensics` `python` `data-recovery`
+
+</td>
+<td width="33%" valign="top">
+
+**[InboxEye](https://github.com/Shivam01001/InboxEye)**
+<sub>every email leaves a trail. this reads it.</sub>
+
+Feed it a raw header, get back the sender's real route — SPF/DKIM/DMARC checks, DNSBL reputation, phishing heuristics, and a live map of every server hop.
+
+`osint` `email-forensics` `python`
+
+</td>
+</tr>
+</table>
 
 <br>
 
