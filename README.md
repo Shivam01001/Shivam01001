@@ -134,7 +134,7 @@ metasploit
 **[Android-LoginBypass-Lab](https://github.com/Shivam01001/Android-LoginBypass-Lab)**
 <sub>5 doors in. 1 dashboard. pick your exploit.</sub>
 
-A deliberately broken login screen — hardcoded creds, exported activities, and an `adb` one-liner all lead to the same flag. Built to teach static analysis, intent abuse, and Frida hooking hands-on.
+A deliberately broken login screen - hardcoded creds, exported activities, and an `adb` one-liner all lead to the same flag. Built to teach static analysis, intent abuse, and Frida hooking hands-on.
 
 `android` `frida` `jadx` `ctf`
 
@@ -144,7 +144,7 @@ A deliberately broken login screen — hardcoded creds, exported activities, and
 **[File_Recovery](https://github.com/Shivam01001/File_Recovery)**
 <sub>deleted ≠ gone.</sub>
 
-A digital forensics tool that pulls "erased" files back from the dead — metadata intact, 97.85% success rate, near-total file type coverage.
+A digital forensics tool that pulls "erased" files back from the dead - metadata intact, 97.85% success rate, near-total file type coverage.
 
 `forensics` `python` `data-recovery`
 
@@ -154,7 +154,7 @@ A digital forensics tool that pulls "erased" files back from the dead — metada
 **[InboxEye](https://github.com/Shivam01001/InboxEye)**
 <sub>every email leaves a trail. this reads it.</sub>
 
-Feed it a raw header, get back the sender's real route — SPF/DKIM/DMARC checks, DNSBL reputation, phishing heuristics, and a live map of every server hop.
+Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, DNSBL reputation, phishing heuristics, and a live map of every server hop.
 
 `osint` `email-forensics` `python`
 
@@ -193,7 +193,7 @@ Feed it a raw header, get back the sender's real route — SPF/DKIM/DMARC checks
 
 <code>recon → understand → test → validate → report → fix</code>
 
-<sub>security isn't about knowing every tool — it's about knowing what to ask, where to look, and why it matters</sub>
+<sub>security isn't about knowing every tool - it's about knowing what to ask, where to look, and why it matters</sub>
 
 <br><br>
 
