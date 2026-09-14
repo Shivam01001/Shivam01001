@@ -26,11 +26,23 @@
 <br>
 
 ```text
-shivam@kali ~ % whoami
-> security researcher — breaking things so no one else can
+shivam@kali:~$ vapt --target example.com
 
-shivam@kali ~ % uptime
-> always curious, always probing
+[+] resolving target
+[+] enumerating attack surface
+[+] identifying technologies
+[+] discovering endpoints
+[+] testing access controls
+[+] validating findings
+
+---------------------------------------------
+  TARGET   : example.com
+  MODE     : authorized security test
+  STATUS   : assessment complete
+---------------------------------------------
+
+shivam@kali:~$ echo "Understand the system. Then test its assumptions."
+Understand the system. Then test its assumptions.
 ```
 
 <br>
@@ -103,28 +115,11 @@ metasploit
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00ff88&height=2&width=900" />
 
-<h3><code>android_vapt</code></h3>
+<h3><code>technologies</code></h3>
 
-<sub>methodology aligned with OWASP MASTG / MASVS</sub>
+`Burp Suite` `MobSF` `Frida` `Objection` `JADX` `APKTool` `Drozer` `ADB` `Nuclei` `SQLMap` `OWASP ZAP` `Nmap` `Metasploit` `Nessus` `Postman` `HTTPX` `Subfinder`
 
-```text
- static            dynamic            runtime             network
- ──────            ───────            ───────             ───────
- decompile    ▶    install       ▶    hook with      ▶    intercept
- jadx/apktool      device/emu         frida/objection      burp + CA cert
- manifest audit    logs & traffic     bypass pinning       API contract
- hardcoded creds   storage checks     root detection       auth testing
-```
-
-<table align="center">
-<tr><th align="left">phase</th><th align="left">tools</th></tr>
-<tr><td>static analysis</td><td><code>mobsf</code> · <code>jadx</code> · <code>apktool</code></td></tr>
-<tr><td>dynamic analysis</td><td><code>frida</code> · <code>objection</code> · <code>adb</code></td></tr>
-<tr><td>component testing</td><td><code>drozer</code></td></tr>
-<tr><td>network interception</td><td><code>burp suite</code> (mobile proxy + pin bypass)</td></tr>
-</table>
-
-`Insecure Storage` `Weak Crypto` `Insecure IPC` `SSL Pinning Bypass` `Root Detection Bypass` `WebView Misconfig` `Hardcoded Secrets` `Exported Components` `Deep Link Hijacking`
+`Insecure Storage` `Weak Crypto` `Insecure IPC` `SSL Pinning Bypass` `WebView Misconfig` `Hardcoded Secrets` `Exported Components` `Deep Link Hijacking`
 
 <br>
 
@@ -133,8 +128,8 @@ metasploit
 <h3><code>stats</code></h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivam01001&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam01001&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=9ca3af&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivam01001&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam01001&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=9ca3af&langs_count=6&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -142,7 +137,7 @@ metasploit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam01001&bg_color=0d1117&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam01001&bg_color=0d1117&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true&cache_seconds=86400" width="90%" />
 </p>
 
 <br>
@@ -153,19 +148,20 @@ metasploit
 
 ```text
 [ ] deeper into web & api security
-[ ] master frida runtime instrumentation
+[ ] expand android security testing
 [ ] complex authorization flaws
 [ ] security automation tooling
-[ ] full attack chain mapping
+[ ] vulnerability research
+[ ] multi-step attack chains
 ```
 
 <br>
 
 <div align="center">
 
-<code>recon → understand → break → validate → fix</code>
+<code>recon → understand → test → validate → report → fix</code>
 
-<sub>security isn't about knowing every tool — it's about knowing what to ask the target</sub>
+<sub>security isn't about knowing every tool — it's about knowing what to ask, where to look, and why it matters</sub>
 
 <br><br>
 
