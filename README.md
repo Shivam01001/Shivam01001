@@ -1,295 +1,176 @@
 <div align="center">
 
-# `shivam@root:~$ whoami`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=Shivam+Pandit+%7C+Cyber+Security+Associate;Web+%26+API+VAPT;Vulnerability+Research;Recon+%7C+Exploit+%7C+Validate+%7C+Report" alt="Typing intro" />
 
-### `Cyber Security Associate • VAPT • Security Research`
+<br>
 
 ```text
-┌──(shivam㉿kali)-[~]
-└─$ ./skills.sh
-
-[+] Web Application Security    ████████████████████  95%
-[+] API Security                ██████████████████░░  90%
-[+] VAPT                        ██████████████████░░  90%
-[+] Infrastructure Security    ████████████████░░░░  80%
-[+] Vulnerability Research     ████████████████░░░░  80%
-[+] Security Automation         ██████████████░░░░░░  70%
+┌─────────────────────────────────────────────────────────────────┐
+│  shivam@kali:~$ whoami                                         │
+│                                                                 │
+│  cyber security associate                                      │
+│  web / api / infrastructure security                           │
+│                                                                 │
+│  shivam@kali:~$ cat mission.txt                                │
+│  Find the weakness. Understand the root cause. Prove the risk. │
+│  Report it clearly.                                             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-**`[ SYSTEM STATUS: ONLINE ]`**  
-`Recon → Enumerate → Exploit → Validate → Report → Retest`
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00ff88)
 
 </div>
 
 ---
 
-## `~/about`
+## `01 // SYSTEM`
 
 ```bash
-$ cat about.txt
+$ ./status.sh
 
-I'm Shivam — a cybersecurity professional focused on finding
-security weaknesses before attackers do.
+[+] WEB SECURITY          ONLINE
+[+] API SECURITY          ONLINE
+[+] VAPT                  ONLINE
+[+] RESEARCH              ONLINE
+[+] AUTOMATION            ONLINE
 
-I spend most of my time around Web/API VAPT, vulnerability
-research, infrastructure security and security automation.
-
-My approach is simple:
-
-    Don't just run the scanner.
-    Understand the application.
-    Break the logic.
-    Prove the impact.
-    Explain how to fix it.
+[!] curiosity.service     ALWAYS_RUNNING
 ```
+
+I work around **Web Application Security, API Security, VAPT, Infrastructure
+Security and Vulnerability Research**.
+
+I like the part of security where a scanner says *"nothing interesting"* and
+the HTTP request says *"hold my beer."*
 
 ---
 
-## `~/arsenal`
+## `02 // TOOLKIT`
 
-### `Web & API`
+<p align="center">
 
-```text
-[+] Burp Suite Professional
-[+] OWASP ZAP
-[+] Postman
-[+] SQLMap
-[+] Nmap
-[+] Gobuster
-[+] Nuclei
-[+] HTTPX
-```
+<img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,docker,git&theme=dark" />
 
-### `Infrastructure & Recon`
-
-```text
-[+] Nessus
-[+] Metasploit
-[+] Shodan
-[+] Subfinder
-[+] Nikto
-[+] Network Enumeration
-[+] Vulnerability Assessment
-```
-
-### `Code & Automation`
-
-```text
-Python      █████████████████░░░
-Bash        ███████████████░░░░░
-JavaScript  ███████████████░░░░░
-PHP         ███████████░░░░░░░░░
-```
-
----
-
-## `~/security`
-
-```bash
-$ ./checksec.sh --skills
-
-[OK] Web Application VAPT
-[OK] API Penetration Testing
-[OK] Authentication Testing
-[OK] Authorization / Access Control
-[OK] IDOR / BOLA
-[OK] Business Logic Testing
-[OK] XSS
-[OK] Injection Testing
-[OK] Security Misconfiguration
-[OK] Infrastructure Assessment
-[OK] Vulnerability Validation
-[OK] Security Reporting
-```
-
-### Things I like breaking
-
-`IDOR` · `BOLA` · `Broken Access Control` · `XSS` · `Injection`  
-`Business Logic` · `Authentication` · `Authorization` · `API Security`  
-`Misconfigurations` · `Attack Chains` · `Interesting HTTP Responses`
-
----
-
-## `~/research`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 VULNERABILITY RESEARCH               │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  Recon       →  Find the attack surface              │
-│  Analysis    →  Understand the application            │
-│  Hypothesis  →  Build an attack scenario              │
-│  Testing     →  Validate manually                     │
-│  Impact      →  Prove what can actually happen        │
-│  Reporting   →  Make the issue understandable         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-Selected research / findings include:
-
-- Stored + Blind XSS
-- DOM-based XSS
-- IDOR / Broken Object Level Authorization
-- Broken Access Control
-- Business Logic vulnerabilities
-- API security weaknesses
-- Infrastructure security issues
-
-> All security testing and research is performed only on systems where I have authorization.
-
----
-
-## `~/achievements`
-
-```text
-┌─[+] GLOBAL RANKING
-│    Top 2% worldwide — TryHackMe
-│
-├─[+] SECURITY RESEARCH
-│    Independent vulnerability discovery & validation
-│
-├─[+] COMMUNITY
-│    Cybersecurity training for 150+ engineering students
-│
-└─[+] INDUSTRY
-     Cybersecurity training / research recognition
-```
-
----
-
-## `~/current_mission`
-
-```bash
-shivam@kali:~$ ./mission.sh
-
-[*] Deepening Web Application Security
-[*] Going deeper into API Security
-[*] Hunting complex authorization flaws
-[*] Studying attack chains
-[*] Automating repetitive recon workflows
-[*] Improving vulnerability research methodology
-
-[+] Mission: understand the bug, not just the payload.
-```
-
----
-
-## `~/workflow`
-
-```text
-                    ┌──────────┐
-                    │  RECON   │
-                    └────┬─────┘
-                         ↓
-                  ┌──────────────┐
-                  │ ENUMERATION  │
-                  └──────┬───────┘
-                         ↓
-                ┌──────────────────┐
-                │ ATTACK SURFACE   │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ VULN DISCOVERY   │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ MANUAL VALIDATION│
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ IMPACT ANALYSIS  │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ REPORT + RETEST  │
-                └──────────────────┘
-```
-
----
-
-## `~/terminal`
-
-```bash
-shivam@kali:~$ nmap -sC -sV target
-
-shivam@kali:~$ subfinder -d target.com
-
-shivam@kali:~$ httpx -l subdomains.txt
-
-shivam@kali:~$ nuclei -l live-hosts.txt
-
-shivam@kali:~$ burpsuite
-
-shivam@kali:~$ python3 automate.py
-
-shivam@kali:~$ echo "Understand > Automate > Validate"
-Understand > Automate > Validate
-```
-
----
-
-## `~/learning`
-
-```text
-OWASP Top 10
-      │
-      ├── Web Security
-      ├── API Security
-      ├── Access Control
-      ├── Authentication
-      └── Business Logic
-
-        +
-
-Linux
-Networking
-Cloud
-Automation
-Reverse Engineering
-Security Research
-```
-
----
-
-## `~/certifications`
-
-```text
-[+] Google Cybersecurity Certificate
-[+] IBM Cyber Security Fundamentals
-[+] CAPJ — Certified API Hacking Junior
-```
-
----
-
-## `~/connect`
+</p>
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║       "The interesting bugs are usually         ║
-║        hiding where the application logic        ║
-║        meets the security boundary."             ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-**Security Research • VAPT • Web Security • API Security**
+`Burp Suite` · `Nmap` · `Nuclei` · `HTTPX` · `Subfinder` · `Nessus` · `Metasploit` · `SQLMap` · `OWASP ZAP` · `Postman`
 
 </div>
 
 ---
 
-<div align="center">
+## `03 // SECURITY FOCUS`
 
 ```text
-[ SYSTEM: SECURE ] [ MODE: RESEARCH ] [ ACCESS: AUTHORIZED ]
+                    ┌─────────────────┐
+                    │   ATTACK SURFACE│
+                    └────────┬────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+          WEB VAPT         API VAPT       INFRA
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │ MANUAL ANALYSIS │
+                    └────────┬────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │ IMPACT / PROOF  │
+                    └────────┬────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │ REPORT / RETEST │
+                    └─────────────────┘
 ```
+
+### Things I enjoy hunting
+
+`Broken Access Control` · `IDOR / BOLA` · `XSS` · `Injection`  
+`Authentication` · `Authorization` · `Business Logic` · `API flaws`  
+`Security Misconfiguration` · `Attack Chains`
+
+---
+
+## `04 // GITHUB TELEMETRY`
+
+> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9ca3af&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+</p>
+
+---
+
+## `05 // CONTRIBUTION GRAPH`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="95%" />
+</p>
+
+---
+
+## `06 // TERMINAL`
+
+```console
+shivam@kali:~$ recon --target example.com
+
+[+] resolving target
+[+] enumerating subdomains
+[+] probing live hosts
+[+] fingerprinting technologies
+[+] crawling attack surface
+[+] checking exposed endpoints
+
+---------------------------------------------
+  TARGET        : example.com
+  MODE          : authorized security test
+  STATUS        : reconnaissance complete
+---------------------------------------------
+
+shivam@kali:~$ echo "Now comes the fun part."
+Now comes the fun part.
+```
+
+---
+
+## `07 // CURRENT MISSION`
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  [>] Go deeper into Web & API Security        │
+│  [>] Hunt complex authorization flaws         │
+│  [>] Build security automation                │
+│  [>] Improve vulnerability research           │
+│  [>] Understand attack chains                 │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
 
 ### `./keep_learning.sh`
+
+```text
+[ RECON ] → [ UNDERSTAND ] → [ BREAK ] → [ VALIDATE ] → [ FIX ]
+```
+
+**Security isn't about knowing every tool.  
+It's about knowing what to ask the target.**
+
+<br>
+
+`ACCESS: AUTHORIZED ONLY`  `MODE: RESEARCH`  `STATUS: ONLINE`
 
 </div>
