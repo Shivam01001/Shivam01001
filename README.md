@@ -132,7 +132,7 @@ metasploit
 <td width="33%" valign="top">
 
 **[Android-LoginBypass-Lab](https://github.com/Shivam01001/Android-LoginBypass-Lab)**
-<sub>5 doors in. 1 dashboard. pick your exploit.</sub>
+<sub>4 doors in. 1 dashboard. pick your exploit.</sub>
 
 A deliberately broken login screen - hardcoded creds, exported activities, and an `adb` one-liner all lead to the same flag. Built to teach static analysis, intent abuse, and Frida hooking hands-on.
 
