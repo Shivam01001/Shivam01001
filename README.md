@@ -169,16 +169,7 @@ Feed it a raw header, get back the sender's real route — SPF/DKIM/DMARC checks
 <h3><code>stats</code></h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivam01001&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=9ca3af&ring_color=00ff88&include_all_commits=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam01001&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=9ca3af&langs_count=6&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam01001&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam01001&bg_color=0d1117&color=9ca3af&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true&cache_seconds=86400" width="90%" />
 </p>
 
 <br>
