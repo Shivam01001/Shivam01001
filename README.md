@@ -194,9 +194,7 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 <code>recon → understand → test → validate → report → fix</code>
 
 <sub>security isn't about knowing every tool - it's about knowing what to ask, where to look, and why it matters</sub>
-
-<br><br>
-
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=900" />
 
 <sub>access: authorized only · mode: research · status: online</sub>
