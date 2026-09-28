@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ☠  S H I V A M   P A N D I T  ☠
      d a r k   a r e n a   //   v a p t   //   e n t e r   i f   y o u   d a r e
@@ -6,9 +5,7 @@
 
 <div align="center">
 
-<div align="center">
-
-<!-- ☠ FLUID WAVING HEADER — RED / CRIMSON GRADIENT (font size reduced) ☠ -->
+<!-- ☠ FLUID WAVING HEADER — RED / CRIMSON GRADIENT ☠ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:660000,70:cc0022,100:ff0033&height=220&section=header&text=%E2%98%A0%20OFFENSIVE%20MODE%20ACTIVATED%20%E2%98%A0&fontSize=36&fontColor=ffffff&fontAlignY=38&fontFamily=Georgia&animation=twinkling" width="100%" />
 
 <!-- ☠ SMOOTH BOOT SEQUENCE ☠ -->
@@ -16,9 +13,9 @@
 
 <br>
 <br>
-<!-- ☠ IDENTITY TYPING ☠ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=FF2D2D&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="identity-typing" />
 
+<!-- ☠ IDENTITY TYPING ☠ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=FF2D2D&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;" alt="identity-typing" />
 
 <code>find the weakness · trace the root cause · prove the risk · report it clean</code>
 
@@ -33,8 +30,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=Shivam01001&style=for-the-badge&color=ff0033&labelColor=0d0000&label=ARENA+VISITORS)
 
-</div>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -42,8 +37,6 @@
 <br>
 
 <!-- ═══════════════════ TERMINAL BOOT SEQUENCE ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1600&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D" alt="init" />
 
@@ -88,6 +81,8 @@ Understand the system. Then test its assumptions.
 shivam@dark-arena:~$ █
 ```
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -95,8 +90,6 @@ shivam@dark-arena:~$ █
 <br>
 
 <!-- ═══════════════════ SURFACE ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+SURFACE+%E2%98%A0+%5D" alt="surface-header" />
 
@@ -115,6 +108,8 @@ shivam@dark-arena:~$ █
 <code>Broken Access Control</code> <code>IDOR / BOLA</code> <code>XSS</code> <code>Injection</code> <code>Auth Flaws</code> <code>Business Logic</code> <code>API Abuse</code> <code>Misconfiguration</code> <code>Attack Chains</code>
 </p>
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -122,8 +117,6 @@ shivam@dark-arena:~$ █
 <br>
 
 <!-- ═══════════════════ TOOLKIT ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+TOOLKIT+%E2%98%A0+%5D" alt="toolkit-header" />
 
@@ -183,6 +176,8 @@ shivam@dark-arena:~$ █
 </tr>
 </table>
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -190,8 +185,6 @@ shivam@dark-arena:~$ █
 <br>
 
 <!-- ═══════════════════ TECHNOLOGIES ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+%E2%98%A0+TECHNOLOGIES+%E2%98%A0+%5D" alt="tech-header" />
 
@@ -205,6 +198,8 @@ shivam@dark-arena:~$ █
 
 </p>
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -212,8 +207,6 @@ shivam@dark-arena:~$ █
 <br>
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+PROJECTS+%E2%98%A0+%5D" alt="projects-header" />
 
@@ -275,6 +268,8 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 </tr>
 </table>
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -282,8 +277,6 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 <br>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+STATS+%E2%98%A0+%5D" alt="stats-header" />
 
@@ -293,6 +286,8 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
   <img src="https://streak-stats.demolab.com/?user=Shivam01001&hide_border=true&background=0d0000&ring=ff0033&fire=ff0033&currStreakLabel=ff2d2d&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
 </p>
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -300,8 +295,6 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 <br>
 
 <!-- ═══════════════════ MISSION ═══════════════════ -->
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+MISSION+%E2%98%A0+%5D" alt="mission-header" />
 
@@ -318,6 +311,8 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 └──────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
@@ -326,13 +321,10 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1600&color=FF6666&center=true&vCenter=true&width=720&lines=recon+%E2%86%92+understand+%E2%86%92+test+%E2%86%92+validate+%E2%86%92+report+%E2%86%92+fix" alt="flow" />
 
 <sub>security isn't about knowing every tool - it's about knowing what to ask, where to look, and why it matters</sub>
 
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
 
