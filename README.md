@@ -22,14 +22,14 @@
 
 <code>find the weakness · trace the root cause · prove the risk · report it clean</code>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/-WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=0d0000" />
 <img src="https://img.shields.io/badge/-API-000000?style=for-the-badge&logo=fastapi&logoColor=ff0033&labelColor=0d0000" />
 <img src="https://img.shields.io/badge/-ANDROID-000000?style=for-the-badge&logo=android&logoColor=ff0033&labelColor=0d0000" />
 <img src="https://img.shields.io/badge/-INFRA-000000?style=for-the-badge&logo=linux&logoColor=ff0033&labelColor=0d0000" />
 
-<br><br>
+<br>
 
 ![views](https://komarev.com/ghpvc/?username=Shivam01001&style=for-the-badge&color=ff0033&labelColor=0d0000&label=ARENA+VISITORS)
 
