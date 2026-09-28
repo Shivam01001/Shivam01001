@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ☠ CLEAN COLOR-BLOCK BANNER ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:1a0000,70:ff0033,100:000000&height=190&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=%5B%20shivam%20pandit%20%5D%20%7C%20vapt%20specialist%20%7C%20enter%20the%20arena&descAlignY=68&descSize=16&descColor=ffb3b3&fontFamily=JetBrains+Mono" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:1a0000,70:ff0033,100:000000&height=190&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&descAlignY=68&descSize=16&descColor=ffb3b3&fontFamily=JetBrains+Mono" />
 
 <!-- ☠ ACCENT COLOR STRIP ☠ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0033,50:1a0000,100:ff0033&height=6&width=1200" />
