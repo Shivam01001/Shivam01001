@@ -8,24 +8,6 @@
 <!-- ⛧ SYSTEM BREACH BANNER ⛧ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=200&section=header&text=%E2%9B%A7%20SYSTEM%20BREACH%20%E2%9B%A7&fontSize=48&fontColor=ff0033&fontAlignY=38&animation=twinkling&desc=unauthorized%20access%20detected%20%7C%20enter%20the%20arena&descAlignY=60&descSize=16&descColor=ff6666" />
 
-<br>
-
-<!-- ⛧ DEVIL GATE ASCII ⛧ -->
-<pre>
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-       ███████████████████████████████████████████████████
-       ██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██
-       ██   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ██
-       ██                                               ██
-       ██        D  A  R  K     A  R  E  N  A           ██
-       ██                                               ██
-       ██   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ⛧   ██
-       ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██
-       ███████████████████████████████████████████████████
-       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-</pre>
-
-<br>
 
 <!-- ⛧ TYPING SIGIL ⛧ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=720&lines=%E2%9B%A7+shivam+pandit+%E2%9B%A7;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="typing" />
