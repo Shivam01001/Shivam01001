@@ -1,4 +1,3 @@
-```markdown
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ⛧  S H I V A M   P A N D I T  ⛧
      d a r k   a r e n a   //   v a p t   //   e n t e r   i f   y o u   d a r e
@@ -371,4 +370,4 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=140&section=footer&text=%E2%9B%A7&fontSize=60&fontColor=ff0033&fontAlignY=70" />
 
 </div>
-```
+
