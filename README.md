@@ -6,19 +6,16 @@
 
 <div align="center">
 
-<!-- ☠ CLEAN COLOR-BLOCK BANNER ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:1a0000,70:ff0033,100:000000&height=190&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&descAlignY=68&descSize=16&descColor=ffb3b3&fontFamily=JetBrains+Mono" />
+<div align="center">
 
-<!-- ☠ ACCENT COLOR STRIP ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0033,50:1a0000,100:ff0033&height=6&width=1200" />
-
-<br>
+<!-- ☠ FLUID WAVING HEADER — RED / CRIMSON GRADIENT (font size reduced) ☠ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:660000,70:cc0022,100:ff0033&height=220&section=header&text=%E2%98%A0%20OFFENSIVE%20MODE%20ACTIVATED%20%E2%98%A0&fontSize=36&fontColor=ffffff&fontAlignY=38&fontFamily=Georgia&animation=twinkling" width="100%" />
 
 <!-- ☠ SMOOTH BOOT SEQUENCE ☠ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=FF0033&center=true&vCenter=true&width=680&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D;%5B+LOADING+SIGILS+%5D;%5B+FORGING+ENCRYPTION+KEYS+%5D;%5B+SCANNING+ATTACK+SURFACE+%5D;%5B+TARGET+LOCKED+%5D;%5B+ACCESS+GRANTED+%5D" alt="boot-sequence" />
 
 <br>
-
+<br>
 <!-- ☠ IDENTITY TYPING ☠ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=FF2D2D&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="identity-typing" />
 
