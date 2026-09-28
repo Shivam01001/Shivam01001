@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- FUTURISTIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=SHIVAM%20PANDIT&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
-
-### `⚡ CYBERSECURITY PROFESSIONAL · WEB / API / INFRA / ANDROID VAPT`
+<!-- SMOKEY DEVIL / CYBER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=220&section=header&text=SHIVAM%20PANDIT&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
 
 <br>
 
