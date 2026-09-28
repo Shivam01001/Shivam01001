@@ -1,20 +1,20 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ⛧  S H I V A M   P A N D I T  ⛧
+     ☠  S H I V A M   P A N D I T  ☠
      d a r k   a r e n a   //   v a p t   //   e n t e r   i f   y o u   d a r e
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ⛧ SYSTEM BREACH BANNER ⛧ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=200&section=header&text=%E2%9B%A7%20SYSTEM%20BREACH%20%E2%9B%A7&fontSize=48&fontColor=ff0033&fontAlignY=38&animation=twinkling&desc=unauthorized%20access%20detected%20%7C%20enter%20the%20arena&descAlignY=60&descSize=16&descColor=ff6666" />
+<!-- ☠ SYSTEM BREACH BANNER ☠ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=200&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=48&fontColor=ff0033&fontAlignY=38&animation=twinkling&desc=unauthorized%20access%20detected%20%7C%20enter%20the%20arena&descAlignY=60&descSize=16&descColor=ff6666" />
 
 
-<!-- ⛧ TYPING SIGIL ⛧ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=720&lines=%E2%9B%A7+shivam+pandit+%E2%9B%A7;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="typing" />
+<!-- ☠ TYPING SIGIL ☠ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="typing" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF6666&center=true&vCenter=true&width=720&lines=%5B+recon+%5D+%E2%86%92+%5B+analyze+%5D+%E2%86%92+%5B+exploit+%5D+%E2%86%92+%5B+validate+%5D+%E2%86%92+%5B+report+%5D;the+arena+is+always+watching+%E2%9B%A7" alt="typing2" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF6666&center=true&vCenter=true&width=720&lines=%5B+recon+%5D+%E2%86%92+%5B+analyze+%5D+%E2%86%92+%5B+exploit+%5D+%E2%86%92+%5B+validate+%5D+%E2%86%92+%5B+report+%5D;the+arena+is+always+watching+%E2%98%A0" alt="typing2" />
 
 <br><br>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-<!-- ⛧ BLOOD DIVIDER ⛧ -->
+<!-- ☠ BLOOD DIVIDER ☠ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
 
 <br>
@@ -45,24 +45,24 @@
 <div align="center">
 
 ```
-⛧ INITIALIZING DARK ARENA PROTOCOL ⛧
+☠ INITIALIZING DARK ARENA PROTOCOL ☠
 ```
 
 </div>
 
 ```text
 ┌─[ shivam@dark-arena ]─────────────────────────────────────────────┐
-│                                                                     │
-│  $ sudo ./enter --mode=devil --authorized=true                     │
-│                                                                     │
+│                                                                   │
+│  $ sudo ./enter --mode=devil --authorized=true                    │
+│                                                                   │
 │  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%  ACCESS GRANTED  │
-│                                                                     │
-│  [✓] daemon awake                                                   │
-│  [✓] sigils loaded                                                  │
-│  [✓] encryption keys forged                                         │
-│  [✓] target locked                                                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+│                                                                   │
+│  [✓] daemon awake                                                 │
+│  [✓] sigils loaded                                                │
+│  [✓] encryption keys forged                                       │
+│  [✓] target locked                                                │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 ```text
@@ -99,7 +99,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>⛧ surface ⛧</code></h3>
+<h3><code>☠ surface ☠</code></h3>
 
 </div>
 
@@ -109,7 +109,7 @@ shivam@dark-arena:~$ █
        android ─┤
          infra ─┘
 
-    ⛧ every entry point is a door · every door is a question ⛧
+    ☠ every entry point is a door · every door is a question ☠
 ```
 
 <p align="center">
@@ -126,7 +126,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>⛧ toolkit ⛧</code></h3>
+<h3><code>☠ toolkit ☠</code></h3>
 
 </div>
 
@@ -138,7 +138,7 @@ shivam@dark-arena:~$ █
 <tr>
 <td valign="top" width="33%">
 
-**⛧ web / api**
+**☠ web / api**
 ```text
 ┌──────────────────┐
 │ burp suite       │
@@ -153,7 +153,7 @@ shivam@dark-arena:~$ █
 </td>
 <td valign="top" width="33%">
 
-**⛧ android**
+**☠ android**
 ```text
 ┌──────────────────┐
 │ mobsf            │
@@ -168,7 +168,7 @@ shivam@dark-arena:~$ █
 </td>
 <td valign="top" width="33%">
 
-**⛧ infra**
+**☠ infra**
 ```text
 ┌──────────────────┐
 │ nmap             │
@@ -194,7 +194,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>⛧ technologies ⛧</code></h3>
+<h3><code>☠ technologies ☠</code></h3>
 
 </div>
 
@@ -216,7 +216,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>⛧ projects ⛧</code></h3>
+<h3><code>☠ projects ☠</code></h3>
 
 </div>
 
@@ -226,7 +226,7 @@ shivam@dark-arena:~$ █
 
 ```text
 ╔═══════════════════╗
-║  ⛧ 01            ║
+║  ☠ 01   Android  ║
 ╚═══════════════════╝
 ```
 
@@ -243,7 +243,7 @@ A deliberately broken login screen - hardcoded creds, exported activities, and a
 
 ```text
 ╔═══════════════════╗
-║  ⛧ 02            ║
+║  ☠ 02  Forensics ║
 ╚═══════════════════╝
 ```
 
@@ -260,7 +260,7 @@ A digital forensics tool that pulls "erased" files back from the dead - metadata
 
 ```text
 ╔═══════════════════╗
-║  ⛧ 03            ║
+║  ☠ 03  Email sec ║
 ╚═══════════════════╝
 ```
 
@@ -286,7 +286,7 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <div align="center">
 
-<h3><code>⛧ stats ⛧</code></h3>
+<h3><code>☠ stats ☠</code></h3>
 
 </div>
 
@@ -304,7 +304,7 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <div align="center">
 
-<h3><code>⛧ mission ⛧</code></h3>
+<h3><code>☠ mission ☠</code></h3>
 
 </div>
 
@@ -339,17 +339,15 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <br>
 
-<sub>⛧ access: authorized only · mode: research · status: online ⛧</sub>
+<sub>☠ access: authorized only · mode: research · status: online ☠</sub>
 
 <br>
 
-```text
+
     .   .   .    ..    .   .   .    ..   .   .
   .    ..    .     .   ..    .    .    ..    .
      ▓▒░  t h e   a r e n a   i s   a l w a y s   w a t c h i n g  ░▒▓
-```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=140&section=footer&text=%E2%9B%A7&fontSize=60&fontColor=ff0033&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=140&section=footer&text=%E2%98%A0&fontSize=60&fontColor=ff0033&fontAlignY=70" />
 
 </div>
-
