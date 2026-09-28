@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ☠  S H I V A M   P A N D I T  ☠
      d a r k   a r e n a   //   v a p t   //   e n t e r   i f   y o u   d a r e
@@ -5,18 +6,22 @@
 
 <div align="center">
 
-<!-- ☠ SYSTEM BREACH BANNER ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=200&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=48&fontColor=ff0033&fontAlignY=38&animation=twinkling&desc=unauthorized%20access%20detected%20%7C%20enter%20the%20arena&descAlignY=60&descSize=16&descColor=ff6666" />
+<!-- ☠ CLEAN COLOR-BLOCK BANNER ☠ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:1a0000,70:ff0033,100:000000&height=190&section=header&text=%E2%98%A0%20SYSTEM%20BREACH%20%E2%98%A0&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=%5B%20shivam%20pandit%20%5D%20%7C%20vapt%20specialist%20%7C%20enter%20the%20arena&descAlignY=68&descSize=16&descColor=ffb3b3&fontFamily=JetBrains+Mono" />
 
-
-<!-- ☠ TYPING SIGIL ☠ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=800&color=FF0033&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="typing" />
+<!-- ☠ ACCENT COLOR STRIP ☠ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0033,50:1a0000,100:ff0033&height=6&width=1200" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF6666&center=true&vCenter=true&width=720&lines=%5B+recon+%5D+%E2%86%92+%5B+analyze+%5D+%E2%86%92+%5B+exploit+%5D+%E2%86%92+%5B+validate+%5D+%E2%86%92+%5B+report+%5D;the+arena+is+always+watching+%E2%98%A0" alt="typing2" />
+<!-- ☠ SMOOTH BOOT SEQUENCE ☠ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=FF0033&center=true&vCenter=true&width=680&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D;%5B+LOADING+SIGILS+%5D;%5B+FORGING+ENCRYPTION+KEYS+%5D;%5B+SCANNING+ATTACK+SURFACE+%5D;%5B+TARGET+LOCKED+%5D;%5B+ACCESS+GRANTED+%5D" alt="boot-sequence" />
 
-<br><br>
+<br>
+
+<!-- ☠ IDENTITY TYPING ☠ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=FF2D2D&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;find+the+weakness+%C2%B7+trace+the+root+cause;prove+the+risk+%C2%B7+report+it+clean" alt="identity-typing" />
+
 
 <code>find the weakness · trace the root cause · prove the risk · report it clean</code>
 
@@ -35,7 +40,6 @@
 
 <br>
 
-<!-- ☠ BLOOD DIVIDER ☠ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
 
 <br>
@@ -44,9 +48,7 @@
 
 <div align="center">
 
-```
-☠ INITIALIZING DARK ARENA PROTOCOL ☠
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1600&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D" alt="init" />
 
 </div>
 
@@ -99,7 +101,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>☠ surface ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+SURFACE+%E2%98%A0+%5D" alt="surface-header" />
 
 </div>
 
@@ -126,7 +128,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>☠ toolkit ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+TOOLKIT+%E2%98%A0+%5D" alt="toolkit-header" />
 
 </div>
 
@@ -194,7 +196,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>☠ technologies ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+%E2%98%A0+TECHNOLOGIES+%E2%98%A0+%5D" alt="tech-header" />
 
 </div>
 
@@ -216,7 +218,7 @@ shivam@dark-arena:~$ █
 
 <div align="center">
 
-<h3><code>☠ projects ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+PROJECTS+%E2%98%A0+%5D" alt="projects-header" />
 
 </div>
 
@@ -226,7 +228,7 @@ shivam@dark-arena:~$ █
 
 ```text
 ╔═══════════════════╗
-║  ☠ 01   Android  ║
+║  ☠ 01  Android   ║
 ╚═══════════════════╝
 ```
 
@@ -243,7 +245,7 @@ A deliberately broken login screen - hardcoded creds, exported activities, and a
 
 ```text
 ╔═══════════════════╗
-║  ☠ 02  Forensics ║
+║  ☠ 02 Forensics  ║
 ╚═══════════════════╝
 ```
 
@@ -260,7 +262,7 @@ A digital forensics tool that pulls "erased" files back from the dead - metadata
 
 ```text
 ╔═══════════════════╗
-║  ☠ 03  Email sec ║
+║  ☠ 03 Mail sec   ║
 ╚═══════════════════╝
 ```
 
@@ -286,7 +288,7 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <div align="center">
 
-<h3><code>☠ stats ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+STATS+%E2%98%A0+%5D" alt="stats-header" />
 
 </div>
 
@@ -304,18 +306,18 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <div align="center">
 
-<h3><code>☠ mission ☠</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+MISSION+%E2%98%A0+%5D" alt="mission-header" />
 
 </div>
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│  [ ] deeper into web & api security               │
-│  [ ] expand android security testing              │
-│  [ ] complex authorization flaws                  │
-│  [ ] security automation tooling                  │
-│  [ ] vulnerability research                       │
-│  [ ] multi-step attack chains                     │
+│  [ ] deeper into web & api security              │
+│  [ ] expand android security testing             │
+│  [ ] complex authorization flaws                 │
+│  [ ] security automation tooling                 │
+│  [ ] vulnerability research                      │
+│  [ ] multi-step attack chains                    │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -329,7 +331,7 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <div align="center">
 
-<code>recon → understand → test → validate → report → fix</code>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1600&color=FF6666&center=true&vCenter=true&width=720&lines=recon+%E2%86%92+understand+%E2%86%92+test+%E2%86%92+validate+%E2%86%92+report+%E2%86%92+fix" alt="flow" />
 
 <sub>security isn't about knowing every tool - it's about knowing what to ask, where to look, and why it matters</sub>
 
@@ -339,15 +341,15 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 <br>
 
-<sub>☠ access: authorized only · mode: research · status: online ☠</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1600&color=FF0033&center=true&vCenter=true&width=500&lines=%E2%98%A0+access%3A+authorized+only;%E2%98%A0+mode%3A+research;%E2%98%A0+status%3A+online" alt="status" />
 
 <br>
 
-
-    .   .   .    ..    .   .   .    ..   .   .
-  .    ..    .     .   ..    .    .    ..    .
      ▓▒░  t h e   a r e n a   i s   a l w a y s   w a t c h i n g  ░▒▓
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:ff0033,75:1a0000,100:000000&height=140&section=footer&text=%E2%98%A0&fontSize=60&fontColor=ff0033&fontAlignY=70" />
+
+<!-- ☠ CLEAN FOOTER COLOR-BLOCK ☠ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=14&width=1200" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:1a0000,70:ff0033,100:000000&height=90&section=footer&text=%E2%98%A0&fontSize=44&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontFamily=JetBrains+Mono" />
 
 </div>
