@@ -1,66 +1,66 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ☠  S H I V A M   P A N D I T  ☠
-     d a r k   a r e n a   //   v a p t   //   e n t e r   i f   y o u   d a r e
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ===============================================================
+     SHIVAM PANDIT // SCAPY-INSPIRED RESPONSIVE GITHUB README
+     GitHub-safe: no custom CSS / JS required
+     =============================================================== -->
 
 <div align="center">
 
-<!-- ☠ FLUID WAVING HEADER — RED / CRIMSON GRADIENT ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:660000,70:cc0022,100:ff0033&height=220&section=header&text=%E2%98%A0%20OFFENSIVE%20MODE%20ACTIVATED%20%E2%98%A0&fontSize=36&fontColor=ffffff&fontAlignY=38&fontFamily=Georgia&animation=twinkling" width="100%" />
 
-<!-- ☠ SMOOTH BOOT SEQUENCE ☠ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=FF0033&center=true&vCenter=true&width=680&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D;%5B+LOADING+SIGILS+%5D;%5B+FORGING+ENCRYPTION+KEYS+%5D;%5B+SCANNING+ATTACK+SURFACE+%5D;%5B+TARGET+LOCKED+%5D;%5B+ACCESS+GRANTED+%5D" alt="boot-sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=900&color=00E676&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+Shivam+Pandit;%24+cat+specialization.txt;%3E+Web+%7C+API+%7C+Android+%7C+Infrastructure+VAPT;%24+echo+%22Think+like+an+attacker.+Report+like+an+engineer.%22" alt="terminal typing" />
 
 <br>
-<br>
-
-<!-- ☠ IDENTITY TYPING ☠ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=FF2D2D&center=true&vCenter=true&width=720&lines=%E2%98%A0+shivam+pandit+%E2%98%A0;cybersecurity+professional;web+%2F+api+%2F+infra+%2F+android+vapt;" alt="identity-typing" />
 
 <code>find the weakness · trace the root cause · prove the risk · report it clean</code>
 
 <br>
 
-<img src="https://img.shields.io/badge/-WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0033&labelColor=0d0000" />
-<img src="https://img.shields.io/badge/-API-000000?style=for-the-badge&logo=fastapi&logoColor=ff0033&labelColor=0d0000" />
-<img src="https://img.shields.io/badge/-ANDROID-000000?style=for-the-badge&logo=android&logoColor=ff0033&labelColor=0d0000" />
-<img src="https://img.shields.io/badge/-INFRA-000000?style=for-the-badge&logo=linux&logoColor=ff0033&labelColor=0d0000" />
+<img src="https://img.shields.io/badge/WEB-0B1117?style=for-the-badge&logo=googlechrome&logoColor=00E676" />
+<img src="https://img.shields.io/badge/API-0B1117?style=for-the-badge&logo=fastapi&logoColor=7DD3FC" />
+<img src="https://img.shields.io/badge/ANDROID-0B1117?style=for-the-badge&logo=android&logoColor=00E676" />
+<img src="https://img.shields.io/badge/INFRA-0B1117?style=for-the-badge&logo=linux&logoColor=A78BFA" />
 
 <br>
 
-![views](https://komarev.com/ghpvc/?username=Shivam01001&style=for-the-badge&color=ff0033&labelColor=0d0000&label=ARENA+VISITORS)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ TERMINAL BOOT SEQUENCE ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1600&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+INITIALIZING+DARK+ARENA+PROTOCOL+%5D" alt="init" />
+![views](https://komarev.com/ghpvc/?username=Shivam01001&style=for-the-badge&color=00e676&labelColor=0b1117&label=PROFILE+VIEWS)
 
 </div>
 
+---
+
+<div align="center">
+
+`[ SURFACE ]` · `[ TOOLKIT ]` · `[ TECHNOLOGIES ]` · `[ PROJECTS ]` · `[ STATS ]` · `[ MISSION ]`
+
+</div>
+
+---
+
+## `$ boot --profile shivam`
+
 ```text
-┌─[ shivam@dark-arena ]─────────────────────────────────────────────┐
-│                                                                   │
-│  $ sudo ./enter --mode=devil --authorized=true                    │
-│                                                                   │
-│  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%  ACCESS GRANTED  │
-│                                                                   │
-│  [✓] daemon awake                                                 │
-│  [✓] sigils loaded                                                │
-│  [✓] encryption keys forged                                       │
-│  [✓] target locked                                                │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+┌─[ shivam@security-lab ]──────────────────────────────────────────┐
+│                                                                  │
+│  $ sudo ./enter --mode=authorized --scope=vapt                  │
+│                                                                  │
+│  [████████████████████████████████████████] 100%  ACCESS GRANTED │
+│                                                                  │
+│  [✓] profile loaded                                              │
+│  [✓] attack surface mapped                                       │
+│  [✓] tooling ready                                               │
+│  [✓] authorization confirmed                                     │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-```text
-shivam@dark-arena:~$ vapt --target example.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=800&color=7DD3FC&center=true&vCenter=true&width=760&lines=shivam%40security-lab%3A~%24+vapt+--target+example.com;%5B%2B%5D+resolving+target;%5B%2B%5D+enumerating+attack+surface;%5B%2B%5D+identifying+technologies;%5B%2B%5D+discovering+endpoints;%5B%2B%5D+testing+access+controls;%5B%2B%5D+validating+findings;%5B%E2%9C%93%5D+assessment+complete" alt="animated assessment terminal" />
+</p>
 
-[▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰] 100%   scanning...
+```text
+shivam@security-lab:~$ vapt --target example.com
+
+[████████████████████] 100%   scanning...
 
 [+] resolving target
 [+] enumerating attack surface
@@ -70,30 +70,20 @@ shivam@dark-arena:~$ vapt --target example.com
 [+] validating findings
 
 ╔═══════════════════════════════════════════════╗
-║  TARGET   : example.com                       ║
-║  MODE     : authorized security test          ║
-║  STATUS   : assessment complete               ║
+║  TARGET   : example.com                      ║
+║  MODE     : authorized security test         ║
+║  STATUS   : assessment complete              ║
 ╚═══════════════════════════════════════════════╝
 
-shivam@dark-arena:~$ echo "Understand the system. Then test its assumptions."
+shivam@security-lab:~$ echo "Understand the system. Then test its assumptions."
 Understand the system. Then test its assumptions.
 
-shivam@dark-arena:~$ █
+shivam@security-lab:~$ █
 ```
 
-<div align="center">
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ SURFACE ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+SURFACE+%E2%98%A0+%5D" alt="surface-header" />
-
-</div>
+## `[ SURFACE ]`
 
 ```text
            web ─┐
@@ -101,126 +91,87 @@ shivam@dark-arena:~$ █
        android ─┤
          infra ─┘
 
-    ☠ every entry point is a door · every door is a question ☠
+   every entry point is a door · every door is a question
 ```
 
 <p align="center">
-<code>Broken Access Control</code> <code>IDOR / BOLA</code> <code>XSS</code> <code>Injection</code> <code>Auth Flaws</code> <code>Business Logic</code> <code>API Abuse</code> <code>Misconfiguration</code> <code>Attack Chains</code>
+<code>Broken Access Control</code>
+<code>IDOR / BOLA</code>
+<code>XSS</code>
+<code>Injection</code>
+<code>Auth Flaws</code>
+<code>Business Logic</code>
+<code>API Abuse</code>
+<code>Misconfiguration</code>
+<code>Attack Chains</code>
 </p>
 
-<div align="center">
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ TOOLKIT ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+TOOLKIT+%E2%98%A0+%5D" alt="toolkit-header" />
-
-</div>
+## `[ TOOLKIT ]`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,docker,git,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,docker,git,androidstudio&theme=dark" alt="skills" />
 </p>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+### `web / api`
 
-**☠ web / api**
 ```text
-┌──────────────────┐
-│ burp suite       │
-│ nuclei           │
-│ sqlmap           │
-│ owasp zap        │
-│ postman          │
-│ httpx · subfinder│
-└──────────────────┘
+┌────────────────────┐
+│ burp suite         │
+│ nuclei             │
+│ sqlmap             │
+│ owasp zap          │
+│ postman            │
+│ httpx · subfinder  │
+└────────────────────┘
 ```
 
-</td>
-<td valign="top" width="33%">
+### `android`
 
-**☠ android**
 ```text
-┌──────────────────┐
-│ mobsf            │
-│ frida            │
-│ objection        │
-│ jadx · apktool   │
-│ drozer           │
-│ adb              │
-└──────────────────┘
+┌────────────────────┐
+│ mobsf              │
+│ frida              │
+│ objection          │
+│ jadx · apktool     │
+│ drozer             │
+│ adb                │
+└────────────────────┘
 ```
 
-</td>
-<td valign="top" width="33%">
+### `infra`
 
-**☠ infra**
 ```text
-┌──────────────────┐
-│ nmap             │
-│ nessus           │
-│ metasploit       │
-│                  │
-│                  │
-│                  │
-└──────────────────┘
+┌────────────────────┐
+│ nmap               │
+│ nessus             │
+│ metasploit         │
+│                    │
+│                    │
+│                    │
+└────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ TECHNOLOGIES ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=520&lines=%5B+%E2%98%A0+TECHNOLOGIES+%E2%98%A0+%5D" alt="tech-header" />
-
-</div>
+## `[ TECHNOLOGIES ]`
 
 <p align="center">
 
 `Burp Suite` `MobSF` `Frida` `Objection` `JADX` `APKTool` `Drozer` `ADB` `Nuclei` `SQLMap` `OWASP ZAP` `Nmap` `Metasploit` `Nessus` `Postman` `HTTPX` `Subfinder`
 
+<br>
+
 `Insecure Storage` `Weak Crypto` `Insecure IPC` `SSL Pinning Bypass` `WebView Misconfig` `Hardcoded Secrets` `Exported Components` `Deep Link Hijacking`
 
 </p>
 
-<div align="center">
+---
 
-<br>
+## `[ PROJECTS ]`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+PROJECTS+%E2%98%A0+%5D" alt="projects-header" />
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-```text
-╔═══════════════════╗
-║  ☠ 01  Android   ║
-╚═══════════════════╝
-```
+### `01 // Android`
 
 **[Android-LoginBypass-Lab](https://github.com/Shivam01001/Android-LoginBypass-Lab)**
 
@@ -230,14 +181,9 @@ A deliberately broken login screen - hardcoded creds, exported activities, and a
 
 `android` `frida` `jadx` `ctf`
 
-</td>
-<td width="33%" valign="top">
+---
 
-```text
-╔═══════════════════╗
-║  ☠ 02 Forensics  ║
-╚═══════════════════╝
-```
+### `02 // Forensics`
 
 **[File_Recovery](https://github.com/Shivam01001/File_Recovery)**
 
@@ -247,14 +193,9 @@ A digital forensics tool that pulls "erased" files back from the dead - metadata
 
 `forensics` `python` `data-recovery`
 
-</td>
-<td width="33%" valign="top">
+---
 
-```text
-╔═══════════════════╗
-║  ☠ 03 Mail sec   ║
-╚═══════════════════╝
-```
+### `03 // Mail Security`
 
 **[InboxEye](https://github.com/Shivam01001/InboxEye)**
 
@@ -264,41 +205,17 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 
 `osint` `email-forensics` `python`
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+STATS+%E2%98%A0+%5D" alt="stats-header" />
-
-</div>
+## `[ STATS ]`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shivam01001&hide_border=true&background=0d0000&ring=ff0033&fire=ff0033&currStreakLabel=ff2d2d&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+  <img src="https://streak-stats.demolab.com/?user=Shivam01001&hide_border=true&background=0B1117&ring=00E676&fire=7DD3FC&currStreakLabel=00E676&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub streak" width="100%" />
 </p>
 
-<div align="center">
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<!-- ═══════════════════ MISSION ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=4000&color=FF0033&center=true&vCenter=true&width=400&lines=%5B+%E2%98%A0+MISSION+%E2%98%A0+%5D" alt="mission-header" />
-
-</div>
+## `[ MISSION ]`
 
 ```text
 ┌──────────────────────────────────────────────────┐
@@ -311,34 +228,20 @@ Feed it a raw header, get back the sender's real route - SPF/DKIM/DMARC checks, 
 └──────────────────────────────────────────────────┘
 ```
 
+---
+
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2300&pause=1200&color=00E676&center=true&vCenter=true&width=760&lines=recon+%E2%86%92+understand+%E2%86%92+test+%E2%86%92+validate+%E2%86%92+report+%E2%86%92+fix;status%3A+online;mode%3A+research;access%3A+authorized+only" alt="footer flow" />
 
 <br>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1600&color=FF6666&center=true&vCenter=true&width=720&lines=recon+%E2%86%92+understand+%E2%86%92+test+%E2%86%92+validate+%E2%86%92+report+%E2%86%92+fix" alt="flow" />
 
 <sub>security isn't about knowing every tool - it's about knowing what to ask, where to look, and why it matters</sub>
 
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:ff0033,100:0d0000&height=2&width=900" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1600&color=FF0033&center=true&vCenter=true&width=500&lines=%E2%98%A0+access%3A+authorized+only;%E2%98%A0+mode%3A+research;%E2%98%A0+status%3A+online" alt="status" />
-
-<br>
-
-     ▓▒░  t h e   a r e n a   i s   a l w a y s   w a t c h i n g  ░▒▓
-
-
-<!-- ☠ CLEAN FOOTER COLOR-BLOCK ☠ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0033,100:000000&height=14&width=1200" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:1a0000,70:ff0033,100:000000&height=90&section=footer&text=%E2%98%A0&fontSize=44&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontFamily=JetBrains+Mono" />
+```text
+▓▒░  the lab is always listening  ░▒▓
+```
 
 </div>
