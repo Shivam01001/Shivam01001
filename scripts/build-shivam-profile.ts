@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { renderCard, type CardInput } from "./lib/card.ts";
+import { renderShivamProjectCard, type ShivamProjectCard } from "./lib/shivam-project-card.ts";
 import { CITY_DARK, CITY_LIGHT, renderCity } from "./lib/city.ts";
 import { lights } from "./lib/city-lights.ts";
 import { renderGitlog } from "./lib/gitlog.ts";
@@ -21,11 +21,11 @@ const keys: Key[] = [
   { slug: "tryhackme", label: "TRYHACKME", url: "https://tryhackme.com/p/Mr.NULL", alt: "Shivam's TryHackMe profile" },
   { slug: "projects", label: "PROJECTS", url: "https://github.com/Shivam01001?tab=repositories", alt: "Shivam's public security projects" },
 ];
-const cards: Record<string, CardInput> = {
-  gmt: { title: "ReconSP", pill: "WEB RECON", tagline: ["Web reconnaissance for scoped", "and authorized security assessments."], stats: [{ value: "WEB", label: "surface" }, { value: "HTML", label: "stack" }], body: { kind: "chat", ask: "map the attack surface", call: "discover → validate → report", answer: "scope respected", caption: "recon workflow" }, footer: "GitHub" },
-  worktree: { title: "InboxEye", pill: "PYTHON", tagline: ["Email-header forensics and", "phishing-signal investigation."], stats: [{ value: "SPF", label: "checks" }, { value: "DKIM", label: "checks" }, { value: "DMARC", label: "checks" }], body: { kind: "chat", ask: "trace this message route", call: "headers → signals → evidence", answer: "investigation ready", caption: "email forensics" }, footer: "GitHub" },
-  dox: { title: "Android Lab", pill: "CTF", tagline: ["An intentionally vulnerable lab", "for safe mobile-security practice."], stats: [{ value: "ADB", label: "testing" }, { value: "FRIDA", label: "learning" }], body: { kind: "chat", ask: "test the lab safely", call: "analyze → bypass → explain", answer: "lesson captured", caption: "mobile security" }, footer: "GitHub" },
-  northguild: { title: "Research", pill: "NEXT", tagline: ["Red teaming, reverse engineering", "binary exploitation and LLM security."], stats: [{ value: "SYS", label: "security" }, { value: "LLM", label: "security" }], body: { kind: "chat", ask: "what assumption can fail?", call: "model → test → harden", answer: "research in progress", caption: "authorized labs" }, footer: "learning" },
+const cards: Record<string, ShivamProjectCard> = {
+  inboxeye: { title: "InboxEye", pill: "PYTHON", lines: ["Email forensics, header tracing", "and phishing-signal analysis."], label: "ROUTE ANALYSIS READY", footer: "email security", kind: "inbox" },
+  android: { title: "Android LoginBypass", pill: "CTF LAB", lines: ["An intentionally vulnerable lab", "for safe mobile-security practice."], label: "LAB CRACKED SAFELY", footer: "android security", kind: "android" },
+  recovery: { title: "File Recovery", pill: "FORENSICS", lines: ["Evidence-focused recovery and", "digital-forensics exploration."], label: "RECOVERY IN PROGRESS", footer: "forensics", kind: "recovery" },
+  upcoming: { title: "More Projects", pill: "LOCKED", lines: ["New security research projects", "are being prepared for release."], label: "PROJECT QUEUE BUILDING", footer: "coming soon", kind: "locked" },
 };
 const tip: TipInput = { title: "SECURITY ── PROFILE", status: "AUTHORIZED", text: "Explore Shivam's public projects and professional profile.", command: "open github.com/Shivam01001", note: "Use only with clear authorization, scope and reporting." };
 const portfolio: PortfolioInput = { url: "https://github.com/Shivam01001", host: "github.com/Shivam01001", lines: ["A cybersecurity portfolio: VAPT, forensics, Android labs and security research.", "Follow the projects, document the evidence, and strengthen the system."], locked: ["Red Team", "Reverse Eng", "Binary Exploit", "LLM Security"], unlocks: 4 };
@@ -37,7 +37,7 @@ const width = keyWidth(keys);
 const idiom = idiomOfTheDay();
 for (const [theme, palette] of [["dark", DARK], ["light", LIGHT]] as const) {
   keys.forEach((key, index) => writes.push(writeFile(path.join(assets, `key-${key.slug}-${theme}.svg`), renderKey(key, index + 1, width, palette))));
-  Object.entries(cards).forEach(([slug, card]) => writes.push(writeFile(path.join(assets, `card-${slug}-${theme}.svg`), renderCard(card, palette))));
+  Object.entries(cards).forEach(([slug, card]) => writes.push(writeFile(path.join(assets, `card-${slug}-${theme}.svg`), renderShivamProjectCard(card, palette))));
   writes.push(writeFile(path.join(assets, `tip-${theme}.svg`), renderTip(tip, palette)));
   writes.push(writeFile(path.join(assets, `gitlog-${theme}.svg`), renderGitlog([], palette, { label: "SHIVAM01001", comment: "# public projects and updates" })));
   writes.push(writeFile(path.join(assets, `idiom-${theme}.svg`), renderIdiom(idiom, palette)));
