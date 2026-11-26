@@ -45,7 +45,7 @@ All hands-on security work is limited to owned systems, training labs, CTFs, or 
 
 ### Learning direction
 
-`Burp Suite` · `Nuclei` · `OWASP ZAP` · `Nmap` · `MobSF` · `Frida` · `JADX` · `ADB` · `Python` · `Postman`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbelt-dark.svg"><img src="assets/toolbelt-light.svg" width="100%" alt="Shivam's cybersecurity toolbelt: Burp Suite, Nuclei, OWASP ZAP, Nmap, MobSF, Frida, JADX, ADB, Python and Postman"></picture>
 
 Supporting milestone: TryHackMe top 1%. The focus remains disciplined learning, responsible research and actionable reporting.
 
