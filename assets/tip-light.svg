@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="852" height="148" viewBox="0 0 852 148" role="img" aria-labelledby="title">
+<title id="title">TERMINAL ── RUN-CV: My CV/resume runs in your terminal, in a green-screen mainframe UI. Run npx run-cv craig. No terminal handy? Click to run it in the browser →</title>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace; white-space: pre; }
+  @keyframes appear { from { opacity: 0; } }
+  @keyframes type { from { transform: translateX(0); } to { transform: translateX(172.8px); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes follow { from { transform: translateX(-172.8px); } to { transform: translateX(0); } }
+  .comment { animation: appear .4s ease-out .4s both; }
+  .typing { animation: type 1.12s steps(16) .9s both; }
+  .follow { animation: follow 1.12s steps(16) .9s both; }
+  .blink { animation: blink 1s step-end infinite; }
+  .note { animation: appear .4s ease-out 2.32s both; }
+  @keyframes lock { 0% { opacity: 0; transform: scale(1.05); } 55% { opacity: 1; transform: scale(1); } 65% { opacity: .2; } 75% { opacity: 1; } 85% { opacity: .2; } 100% { opacity: 1; transform: scale(1); } }
+  .lock { transform-box: view-box; transform-origin: 50% 50%; animation: lock .9s ease-out .1s both; }
+  @media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .motion-only { display: none; }
+}
+</style>
+<g transform="translate(6 6)">
+  <rect width="840" height="136" fill="#f4fbf4"/>
+  <rect width="840" height="28" fill="#e3f3e3"/>
+  <text x="14" y="19" font-size="11.5" fill="#3f7a4f" letter-spacing="1">TERMINAL ── RUN-CV</text>
+  <text x="826" y="19" font-size="11.5" fill="#3f7a4f" text-anchor="end" letter-spacing="1">READY <tspan class="blink" fill="#0b5d1e">●</tspan></text>
+  <text class="comment" x="22" y="56" font-size="14" fill="#3f7a4f"># My CV/resume runs in your terminal, in a green-screen mainframe UI.</text>
+  <text x="22" y="90" font-size="18" fill="#3f7a4f">$</text>
+  <text x="43.6" y="90" font-size="18" font-weight="700" fill="#0b5d1e" textLength="172.8" lengthAdjust="spacing">npx run-cv craig</text>
+  <rect class="typing motion-only" x="43.6" y="70" width="183.6" height="28" fill="#f4fbf4"/>
+  <g class="follow"><rect class="blink" x="221.8" y="76" width="10.8" height="18" fill="#0b5d1e"/></g>
+  <text class="note" x="22" y="120" font-size="13" fill="#3f7a4f">No terminal handy? Click to run it in the browser →</text>
+</g>
+<rect x="6" y="6" width="840" height="136" fill="none" stroke="#2e7d32" stroke-width="1.5"/>
+<path class="lock" d="M1.25 19.25 V1.25 H19.25 M832.75 1.25 H850.75 V19.25 M850.75 128.75 V146.75 H832.75 M19.25 146.75 H1.25 V128.75" fill="none" stroke="#0b5d1e" stroke-width="2.5" stroke-linecap="square"/>
+</svg>
