@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="852" height="298" viewBox="0 0 852 298" role="img" aria-labelledby="title">
-<title id="title">craig-o-curtis.github.io: My portfolio: an interactive dashboard of my work, stack, open source and agent workflows. Its field guide asks 12 questions, and each right answer unlocks a skin, a scene or a synth track: Still locked: Mainframe, Retro 82, Solid, Rain, NorthGuild.</title>
+<title id="title">github.com/Shivam01001: A cybersecurity portfolio: VAPT, forensics, Android labs and security research. Follow the projects, document the evidence, and strengthen the system. Still locked: Red Team, Reverse Eng, Binary Exploit, LLM Security.</title>
 <style>
   text { white-space: pre; }
   @keyframes appear { from { opacity: 0; } }
@@ -60,41 +60,38 @@
     <path d="M938 335H982L978 340H941ZM947 335V329H971V335ZM955 329V325H965V329Z" fill="#0f1013" stroke="rgb(157 183 214 / 0.3)" stroke-width="1.9"/><g class="dusk" fill="rgb(242 200 121 / 0.9)"><rect x="949" y="331" width="2" height="1.6"/><rect x="953" y="331" width="2" height="1.6"/><rect x="957" y="331" width="2" height="1.6"/><rect x="961" y="331" width="2" height="1.6"/><rect x="965" y="331" width="2" height="1.6"/><rect x="969" y="331" width="2" height="1.6"/></g></g>
   <path d="M0 240H840" stroke="rgb(157 183 214 / 0.3)"/>
 
-  <text x="26" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#efe9dc">There’s more at <tspan fill="#9db7d6">craig-o-curtis.github.io</tspan></text>
-  <text x="26" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#c2bcae">My portfolio: an interactive dashboard of my work, stack, open source and agent workflows.</text>
-  <text x="26" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#c2bcae">Its field guide asks 12 questions, and each right answer unlocks a skin, a scene or a synth track:</text>
+  <text x="26" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#efe9dc">There’s more at <tspan fill="#9db7d6">github.com/Shivam01001</tspan></text>
+  <text x="26" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#c2bcae">A cybersecurity portfolio: VAPT, forensics, Android labs and security research.</text>
+  <text x="26" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#c2bcae">Follow the projects, document the evidence, and strengthen the system.</text>
   <g class="chips">
-    <rect x="26" y="114" width="92.1" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
+    <rect x="26" y="114" width="85.2" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
     <path d="M36.5 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="35" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
-    <text x="48" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="62.1" lengthAdjust="spacingAndGlyphs">Mainframe</text>
-    <rect x="126.1" y="114" width="85.2" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
-    <path d="M136.6 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="135.1" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
-    <text x="148.1" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="55.2" lengthAdjust="spacingAndGlyphs">Retro 82</text>
-    <rect x="219.29999999999998" y="114" width="64.5" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
-    <path d="M229.79999999999998 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="228.29999999999998" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
-    <text x="241.29999999999998" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="34.5" lengthAdjust="spacingAndGlyphs">Solid</text>
-    <rect x="291.79999999999995" y="114" width="57.6" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
-    <path d="M302.29999999999995 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="300.79999999999995" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
-    <text x="313.79999999999995" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="27.6" lengthAdjust="spacingAndGlyphs">Rain</text>
-    <rect x="357.4" y="114" width="99" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
-    <path d="M367.9 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="366.4" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
-    <text x="379.4" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="69" lengthAdjust="spacingAndGlyphs">NorthGuild</text>
+    <text x="48" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="55.2" lengthAdjust="spacingAndGlyphs">Red Team</text>
+    <rect x="119.19999999999999" y="114" width="105.9" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
+    <path d="M129.7 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="128.2" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
+    <text x="141.2" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="75.9" lengthAdjust="spacingAndGlyphs">Reverse Eng</text>
+    <rect x="233.09999999999997" y="114" width="126.6" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
+    <path d="M243.59999999999997 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="242.09999999999997" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
+    <text x="255.09999999999997" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="96.6" lengthAdjust="spacingAndGlyphs">Binary Exploit</text>
+    <rect x="367.69999999999993" y="114" width="112.8" height="22" rx="4" fill="#111214" fill-opacity=".6" stroke="#7a7466" stroke-dasharray="3 2"/>
+    <path d="M378.19999999999993 123.5V122a2.5 2.5 0 0 1 5 0V123.5" fill="none" stroke="#7a7466" stroke-width="1.2"/><rect x="376.69999999999993" y="123.5" width="8" height="6" rx="1" fill="#7a7466"/>
+    <text x="389.69999999999993" y="129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#c2bcae" textLength="82.8" lengthAdjust="spacingAndGlyphs">LLM Security</text>
   </g>
 
   <g class="tag">
-    <rect x="276" y="252" width="194.1" height="22" rx="4" fill="#e0b15c"/>
-    <rect x="288" y="257" width="12" height="12" rx="1.5" transform="rotate(45 294 263)" fill="#111214"/>
-    <text x="294" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11" font-weight="700" text-anchor="middle" fill="#e0b15c">!</text>
-    <text x="310" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="700" fill="#111214" textLength="62.1" lengthAdjust="spacingAndGlyphs">New quest</text>
-    <path d="M380.6 257V269" stroke="#111214" stroke-opacity=".5"/>
-    <text x="389.1" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#111214" textLength="69" lengthAdjust="spacingAndGlyphs">12 unlocks</text>
+    <rect x="188" y="252" width="187.2" height="22" rx="4" fill="#e0b15c"/>
+    <rect x="200" y="257" width="12" height="12" rx="1.5" transform="rotate(45 206 263)" fill="#111214"/>
+    <text x="206" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11" font-weight="700" text-anchor="middle" fill="#e0b15c">!</text>
+    <text x="222" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="700" fill="#111214" textLength="62.1" lengthAdjust="spacingAndGlyphs">New quest</text>
+    <path d="M292.6 257V269" stroke="#111214" stroke-opacity=".5"/>
+    <text x="301.1" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" fill="#111214" textLength="62.1" lengthAdjust="spacingAndGlyphs">4 unlocks</text>
   </g>
-  <text class="arrow" x="266" y="266.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#e0b15c">◀</text>
-  <rect x="20" y="250" width="232" height="26" rx="3" fill="#111214" fill-opacity=".82" stroke="rgb(239 233 220 / 0.14)"/>
+  <text class="arrow" x="178" y="266.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#e0b15c">◀</text>
+  <rect x="20" y="250" width="144" height="26" rx="3" fill="#111214" fill-opacity=".82" stroke="rgb(239 233 220 / 0.14)"/>
   <text x="28" y="267.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2bcae">Guide</text>
-  <g fill="none" stroke="#7a7466" stroke-width="1.2"><rect x="72" y="257" width="7" height="12" rx="1.5"/><rect x="83" y="257" width="7" height="12" rx="1.5"/><rect x="94" y="257" width="7" height="12" rx="1.5"/><rect x="105" y="257" width="7" height="12" rx="1.5"/><rect x="116" y="257" width="7" height="12" rx="1.5"/><rect x="127" y="257" width="7" height="12" rx="1.5"/><rect x="138" y="257" width="7" height="12" rx="1.5"/><rect x="149" y="257" width="7" height="12" rx="1.5"/><rect x="160" y="257" width="7" height="12" rx="1.5"/><rect x="171" y="257" width="7" height="12" rx="1.5"/><rect x="182" y="257" width="7" height="12" rx="1.5"/><rect x="193" y="257" width="7" height="12" rx="1.5"/></g>
-  <text x="210" y="267.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" fill="#d8c9a3" textLength="36" lengthAdjust="spacingAndGlyphs">00/12</text>
-  <path class="lock" d="M18 255V248H25M247 248H254V255M254 271V278H247M25 278H18V271" fill="none" stroke="#e0b15c" stroke-width="2"/>
+  <g fill="none" stroke="#7a7466" stroke-width="1.2"><rect x="72" y="257" width="7" height="12" rx="1.5"/><rect x="83" y="257" width="7" height="12" rx="1.5"/><rect x="94" y="257" width="7" height="12" rx="1.5"/><rect x="105" y="257" width="7" height="12" rx="1.5"/></g>
+  <text x="122" y="267.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" fill="#d8c9a3" textLength="36" lengthAdjust="spacingAndGlyphs">00/04</text>
+  <path class="lock" d="M18 255V248H25M159 248H166V255M166 271V278H159M25 278H18V271" fill="none" stroke="#e0b15c" stroke-width="2"/>
 </g>
 <rect width="840" height="286" rx="10" fill="none" stroke="rgb(239 233 220 / 0.14)" stroke-width="1.5"/>
 </g>

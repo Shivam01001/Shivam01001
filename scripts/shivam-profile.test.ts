@@ -11,5 +11,5 @@ test("README identifies Shivam's cybersecurity portfolio", () => {
 });
 
 test("README keeps the authorization boundary visible", () => {
-  assert.match(readme, /authorized scopes/);
+  assert.match(readme, /explicitly authorized engagements/);
 });

@@ -27,7 +27,12 @@ export function clip(text: string, max: number): string {
   return text.length <= max ? text : `${text.slice(0, Math.max(0, max - 1)).trimEnd()}…`;
 }
 
-export function renderGitlog(merges: Merge[], p: Palette): string {
+export interface GitlogContext {
+  label: string;
+  comment: string;
+}
+
+export function renderGitlog(merges: Merge[], p: Palette, context: GitlogContext = { label: "PUBLIC ACTIVITY", comment: "# public projects and updates" }): string {
   const lines = merges.length;
   const H = TOP + Math.max(1, lines) * LINE + 46;
   const cols = Math.floor((GITLOG_W - 2 * PAD) / CW);
@@ -60,8 +65,8 @@ export function renderGitlog(merges: Merge[], p: Palette): string {
 
   const title =
     lines === 0
-      ? "Recently merged at @northguild: nothing yet."
-      : `Recently merged at @northguild, newest first: ${merges.map((m) => `${m.repo.split("/")[1]}: ${m.title} (${day(m.date).replace(/\s+/, " ")})`).join("; ")}.`;
+      ? `Recently merged at ${context.label}: nothing yet.`
+      : `Recently merged at ${context.label}, newest first: ${merges.map((m) => `${m.repo.split("/")[1]}: ${m.title} (${day(m.date).replace(/\s+/, " ")})`).join("; ")}.`;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${GITLOG_W + 2 * GUTTER}" height="${H + 2 * GUTTER}" viewBox="0 0 ${GITLOG_W + 2 * GUTTER} ${H + 2 * GUTTER}" role="img" aria-labelledby="title">
 <title id="title">${esc(title)}</title>
@@ -81,13 +86,13 @@ export function renderGitlog(merges: Merge[], p: Palette): string {
 <g transform="translate(${GUTTER} ${GUTTER})">
   <rect width="${GITLOG_W}" height="${H}" fill="${p.bg}"/>
   <rect width="${GITLOG_W}" height="28" fill="${p.bar}"/>
-  <text x="${PAD - 8}" y="19" font-size="11.5" fill="${p.dim}" letter-spacing="1">NORTHGUILD ── MERGED TO MAIN</text>
+  <text x="${PAD - 8}" y="19" font-size="11.5" fill="${p.dim}" letter-spacing="1">${esc(context.label)} ── PUBLIC ACTIVITY</text>
   <text x="${GITLOG_W - PAD + 8}" y="19" font-size="11.5" fill="${p.dim}" text-anchor="end" letter-spacing="1">LIVE, HOURLY <tspan class="blink" fill="${p.text}">●</tspan></text>
   <text x="${PAD}" y="54" font-size="${SIZE}" fill="${p.dim}">$</text>
   <text x="${f(cmdX)}" y="54" font-size="${SIZE}" fill="${p.text}" textLength="${f(cmdW)}" lengthAdjust="spacing">${esc(COMMAND)}</text>
   <rect class="typing motion-only" x="${f(cmdX)}" y="38" width="${f(cmdW + CW)}" height="22" fill="${p.bg}"/>
   <!-- After the cover, which ends its slide just where the comment starts. -->
-  <text class="comment" x="${f(cmdX + cmdW + 2 * CW)}" y="54" font-size="${SIZE}" fill="${p.border}">${esc(COMMENT)}</text>
+  <text class="comment" x="${f(cmdX + cmdW + 2 * CW)}" y="54" font-size="${SIZE}" fill="${p.border}">${esc(context.comment)}</text>
   ${rows.join("\n  ")}
   <g class="end"><text x="${PAD}" y="${endY + 14}" font-size="${SIZE}" fill="${p.dim}">$</text><rect class="blink" x="${f(cmdX)}" y="${endY + 2}" width="${f(CW)}" height="15" fill="${p.text}"/></g>
 </g>
